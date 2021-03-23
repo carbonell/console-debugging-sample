@@ -64,12 +64,21 @@ namespace DebuggingConsole
                 Console.WriteLine($"Acumulado: {acumulator}");
                 Console.WriteLine("*****************************");
 
+                // Comment this line if you don't want to pause at every cycle iteration
+                PauseExecution();
+
                 counter++;
             }
             Console.WriteLine($"Final Acumulado {acumulator}");
             Console.WriteLine($"Dividido entre {counter}");
             int factorialAverage = acumulator / counter;
             return factorialAverage;
+        }
+
+        private static void PauseExecution()
+        {
+            Console.WriteLine("Presione una tecla para continuar...");
+            Console.ReadKey();
         }
     }
 }
