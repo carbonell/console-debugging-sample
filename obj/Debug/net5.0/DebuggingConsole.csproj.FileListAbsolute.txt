@@ -1,0 +1,16 @@
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.csprojAssemblyReference.cache
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.AssemblyInfoInputs.cache
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.AssemblyInfo.cs
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\DebuggingConsole.exe
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\DebuggingConsole.deps.json
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\DebuggingConsole.runtimeconfig.json
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\DebuggingConsole.runtimeconfig.dev.json
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\DebuggingConsole.dll
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\ref\DebuggingConsole.dll
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\bin\Debug\net5.0\DebuggingConsole.pdb
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.dll
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\ref\DebuggingConsole.dll
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.pdb
+C:\Users\Lad\source\repos\CSharp\Ramona\DebuggingConsole\obj\Debug\net5.0\DebuggingConsole.genruntimeconfig.cache
