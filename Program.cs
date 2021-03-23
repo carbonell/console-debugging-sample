@@ -13,13 +13,34 @@ namespace DebuggingConsole
 
         public static void Menu()
         {
-            Console.WriteLine("Digite un numero");
-            var numberString = Console.ReadLine();
-            // Int32.Parse()
-            var number = Convert.ToInt32(numberString);
+            int number = 0;
+            var parsingWasSuccessful = false;
+            do
+            {
+                Console.WriteLine("Digite un numero");
+                var numberString = Console.ReadLine();
+
+                // Int32.Parse()
+                // number = Convert.ToInt32(numberString);
+                parsingWasSuccessful = Int32.TryParse(numberString, out number);
+                if (parsingWasSuccessful)
+                {
+                    if (NumberIsInvalid(number))
+                        Console.WriteLine("Númbero Inválido. Debe ser un número mayor que 0 y menor que 100");
+                }
+                else
+                    Console.WriteLine("Debe insertar un número");
+
+            } while (!parsingWasSuccessful || NumberIsInvalid(number));
             var average = Factorial(number);
             Console.WriteLine("The average is: " + average);
         }
+
+        private static bool NumberIsInvalid(int number)
+        {
+            return number < 0 || number > 100;
+        }
+
         public static int Factorial(int number)
         {
             int counter = 0;
